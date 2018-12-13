@@ -13,5 +13,5 @@ Three card Game
   2> All Cards are in sequence and with same Type
   3> All cards with Same type and any two are in sequence
   4> Highest count of all cards
-  
+   
 
